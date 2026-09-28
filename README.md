@@ -40,7 +40,7 @@ different aspects of sales performance.
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](Dashboard_Screenshot.png)
+![Sales Performance Dashboard](Sales%20Performance%20Dashboard.png)
 
 ## Project Files
 
